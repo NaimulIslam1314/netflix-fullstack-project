@@ -12,7 +12,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.use(cors({
-    origin: "https://netflix-fullstack-project.vercel.app",
+    origin: "https://moviestream-fullstack-project.vercel.app",
     credentials: true
 }));
 
