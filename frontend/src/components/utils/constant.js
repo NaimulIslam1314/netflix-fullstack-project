@@ -1,4 +1,4 @@
-export const API_END_POINTS = "http://localhost:3000/api/user"
+export const API_END_POINTS = "https://netflix-fullstack-project-production.up.railway.app/api/user"
 export const options = {
     method: 'GET',
     headers: {
